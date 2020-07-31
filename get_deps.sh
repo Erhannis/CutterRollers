@@ -32,3 +32,4 @@ cd "$REMOTE"
 git clone https://github.com/erhannis/erhannisScad
 git clone https://github.com/erhannis/scadFluidics
 git clone https://github.com/revarbat/BOSL
+git clone https://github.com/erhannis/getriebe
